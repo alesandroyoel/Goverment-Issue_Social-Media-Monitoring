@@ -11,7 +11,7 @@ The raw dataset and the sentiment lexicons are **not included** in this reposito
 
 ## Running the notebook
 
-The notebook was written for **Google Colab**. It reads the dataset from
+The notebook was written for **Google Colab**. It reads the dataset temporary from
 `/content/Data Test_Assigment Tahap 1.xlsx` and the other four files from the working directory (`/content/`).
 
 - **Colab:** upload all five files to the runtime, keeping the file names above, then run all cells.
