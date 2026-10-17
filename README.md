@@ -2,7 +2,7 @@
 
 Exploratory analysis of **15,134 Instagram, Facebook and TikTok posts** about Indonesian government issues (23 April - 1 May 2026): engagement analytics, spam detection, and lexicon-based sentiment analysis in Python.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/alesandroyoel/social-media-monitoring-gov-issues/blob/main/notebooks/social_media_monitoring_analysis.ipynb])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([[https://colab.research.google.com/github/alesandroyoel/social-media-monitoring-gov-issues/blob/main/notebooks/social_media_monitoring_analysis.ipynb]](https://colab.research.google.com/drive/1y_wgZwV5aBdFiMR9_Ap7y60c0QYYrabS?usp=sharing))
 
 > The notebook narration is in Bahasa Indonesia. This README is in English.
 
